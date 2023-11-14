@@ -1,7 +1,3 @@
-Certainly! Here's a sample 'About Me' README for your GitHub profile based on the information you provided:
-
----
-
 ## Hi there! 👋 I'm Krishna Jain
 
 ### About Me
@@ -24,6 +20,20 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 - **Database Management**: Leveraging deep knowledge in handling databases efficiently.
 - **Web3 Exploration**: Exploring the exciting world of Blockchain, Ethereum, and Solidity.
 
+### Technologies & Badges
+
+![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000)
+![GSAP](https://img.shields.io/badge/-GSAP-4A90E2?style=flat&logo=greensock&logoColor=white&labelColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js&logoColor=white&labelColor=000000)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-017B8B?style=flat&logo=jenkins&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=000000)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white&labelColor=000000)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=000000)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=000000)
+
 ### Interests
 
 Apart from tech, I'm enthusiastic about:
@@ -40,7 +50,3 @@ Let's connect and collaborate on exciting projects! Feel free to reach out to me
 - Email: [YourEmail@example.com](mailto:YourEmail@example.com)
 
 Looking forward to connecting and building amazing things together! 😊
-
----
-
-Feel free to customize this README further to suit your preferences, add specific project links, or modify the content as needed.
