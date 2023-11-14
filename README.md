@@ -23,6 +23,11 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 ### Technologies & Badges
 
 ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=000000)
 ![GSAP](https://img.shields.io/badge/-GSAP-4A90E2?style=flat&logo=greensock&logoColor=white&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat&logo=three.js&logoColor=white&labelColor=000000)
@@ -33,6 +38,8 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white&labelColor=000000)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white&labelColor=000000)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white&labelColor=000000)
 
 ### Interests
 
