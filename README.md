@@ -51,9 +51,9 @@ Apart from tech, I'm enthusiastic about:
 ### Connect with Me
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via:
-- [LinkedIn](YourLinkedInProfileLink)
-- [Twitter](YourTwitterProfileLink)
-- [Portfolio](YourPortfolioLink)
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/krishna-jain-842539205/)
+- [Twitter](https://twitter.com/krishna5048)
+- [Portfolio](https://portfolio-krishna-jain.netlify.app/)
+- Email: [YourEmail@example.com](krishnajain5050@gmail.com)
 
 Looking forward to connecting and building amazing things together! 😊
