@@ -12,14 +12,6 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 - **Networking**: Proficient in computer networking
 - **Web3 Enthusiast**: Exploring the realms of Blockchain, Ethereum, Solidity, and more
 
-### What I Do
-
-- **Full Stack Development**: Crafting robust web applications.
-- **Modern Design**: Creating visually stunning and responsive designs.
-- **DevOps Engineering**: Implementing CI/CD pipelines, Docker, Kubernetes, and AWS hosting.
-- **Database Management**: Leveraging deep knowledge in handling databases efficiently.
-- **Web3 Exploration**: Exploring the exciting world of Blockchain, Ethereum, and Solidity.
-
 ### Technologies & Badges
 
 ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000)
@@ -40,13 +32,6 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000)
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white&labelColor=000000)
-
-### Interests
-
-Apart from tech, I'm enthusiastic about:
-- Exploring new technologies
-- Contributing to open-source projects
-- Continuous learning in the ever-evolving tech landscape
 
 ### Connect with Me
 
