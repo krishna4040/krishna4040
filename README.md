@@ -36,9 +36,9 @@ I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab Unive
 ### Connect with Me
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via:
-- [LinkedIn](https://www.linkedin.com/in/krishna-jain-842539205/)
-- [Twitter](https://twitter.com/krishna5048)
-- [Portfolio](https://portfolio-krishna-jain.netlify.app/)
-- Email: [krishnajain5050@gmail.com](krishnajain5050@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/krishna-jain-842539205/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/krishna5048)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white&labelColor=000000)](https://portfolio-krishna-jain.netlify.app/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000)](mailto:krishnajain5050@gmail.com)
 
 Looking forward to connecting and building amazing things together! 😊
