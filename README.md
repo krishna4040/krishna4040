@@ -54,6 +54,6 @@ Let's connect and collaborate on exciting projects! Feel free to reach out to me
 - [LinkedIn](https://www.linkedin.com/in/krishna-jain-842539205/)
 - [Twitter](https://twitter.com/krishna5048)
 - [Portfolio](https://portfolio-krishna-jain.netlify.app/)
-- Email: [YourEmail@example.com](krishnajain5050@gmail.com)
+- Email: [krishnajain5050@gmail.com](krishnajain5050@gmail.com)
 
 Looking forward to connecting and building amazing things together! 😊
