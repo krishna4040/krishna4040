@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Krishna /jain</h1>
 <h3 align="center">I'm currently pursuing my B.Tech in Information Technology at UIET, Panjab University. Passionate about crafting exceptional digital experiences, I'm a Full Stack Web Developer proficient in the MERN stack and a learner web3 enthusiast.</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1HY9B4yC4DYcy10N6HqgmJ&ust=1700908642877000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC0-cq43IIDFQAAAAAdAAAAABAE" align="right" width="400" alt="coder" />
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" width="400" alt="coder" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna4040&label=Profile%20views&color=0e75b6&style=flat" alt="krishna4040" /> </p>
 
