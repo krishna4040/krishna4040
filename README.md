@@ -69,9 +69,8 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="./assets/terminal.gif" />
-</div>
+<asciinema-player src="session.cast" cols="80" rows="24"></asciinema-player>
+<script src="https://asciinema.org/a/player.js"></script>
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
@@ -193,4 +192,3 @@ If you find my work helpful or interesting, please consider **starring my reposi
 👉 [Follow Me on GitHub](https://github.com/krishna4040)
 
 Thanks for your support! 💖
-
