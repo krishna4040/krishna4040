@@ -69,8 +69,7 @@
 </div>
 
 <br>
-<asciinema-player src="session.cast" cols="80" rows="24"></asciinema-player>
-<script src="https://asciinema.org/a/player.js"></script>
+[![asciicast](./assets/session.cast)](./assets/session.cast)
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
