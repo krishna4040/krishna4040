@@ -69,7 +69,6 @@
 </div>
 
 <br>
-[![asciicast](./assets/session.cast)](./assets/session.cast)
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
