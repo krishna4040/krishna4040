@@ -35,7 +35,7 @@
            <a href="https://github.com/krishna4040">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
-          <a href="https://www.linkedin.com/in/krishna-jain-842539205/">
+          <a href="https://www.linkedin.com/in/krishna4040/">
             <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
           </a>
          </p>
